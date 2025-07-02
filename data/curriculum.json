@@ -1,0 +1,149 @@
+{
+  "modules": [
+    {
+      "id": "module1",
+      "title": "Introduction to Long-Term Investing",
+      "level": "Beginner",
+      "description": "Master the fundamentals of stock ownership and market mechanics",
+      "sessions": [
+        {
+          "id": "session1",
+          "title": "What is a Stock?",
+          "description": "Learn what it means to own a piece of a company",
+          "duration": "8 min",
+          "audioFile": "/audio/module1_session1_what_is_stock.mp3",
+          "infographic": "/images/infographic_what_is_stock.png",
+          "isFree": true,
+          "keyPoints": [
+            "A stock represents ownership in a real business",
+            "Shareholders have voting rights and profit participation",
+            "Companies issue stocks to raise capital for growth"
+          ]
+        },
+        {
+          "id": "session2",
+          "title": "What is the Stock Market?",
+          "description": "Discover how the global marketplace for stocks operates",
+          "duration": "9 min",
+          "audioFile": "/audio/module1_session2_stock_market.mp3",
+          "infographic": "/images/infographic_stock_market.png",
+          "isFree": true,
+          "keyPoints": [
+            "Stock exchanges connect buyers and sellers globally",
+            "Supply and demand drive price movements",
+            "Brokers facilitate trading between investors"
+          ]
+        },
+        {
+          "id": "session3",
+          "title": "The Power of Long-Term Investing",
+          "description": "Unlock the magic of compound growth over time",
+          "duration": "10 min",
+          "audioFile": "/audio/module1_session3_long_term_power.mp3",
+          "infographic": "/images/infographic_compound_interest.png",
+          "isFree": true,
+          "keyPoints": [
+            "Compound growth multiplies wealth exponentially",
+            "Time in market beats timing the market",
+            "Patience is the investor's greatest advantage"
+          ]
+        },
+        {
+          "id": "session4",
+          "title": "Why Invest in the Stock Market?",
+          "description": "Build lasting wealth and secure your financial future",
+          "duration": "7 min",
+          "audioFile": "/audio/module1_session4_why_invest.mp3",
+          "infographic": "/images/infographic_why_invest.png",
+          "isFree": true,
+          "keyPoints": [
+            "Stocks historically outperform other asset classes",
+            "Investing beats inflation and preserves purchasing power",
+            "Building wealth creates financial freedom and legacy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "module2",
+      "title": "Getting Started with Investing",
+      "level": "Beginner",
+      "description": "Set your foundation with goals, budgets, and brokerage selection",
+      "sessions": [
+        {
+          "id": "session1",
+          "title": "Setting Financial Goals",
+          "description": "Define your investment objectives and timeline",
+          "duration": "11 min",
+          "audioFile": "/audio/module2_session1_financial_goals.mp3",
+          "infographic": "/images/infographic_financial_goals.png",
+          "isFree": true,
+          "keyPoints": [
+            "SMART goals create clear investment direction",
+            "Different goals require different strategies",
+            "Regular review keeps you on track"
+          ]
+        },
+        {
+          "id": "session2",
+          "title": "Creating a Budget",
+          "description": "Maximize your investing power with smart budgeting",
+          "duration": "9 min",
+          "audioFile": null,
+          "infographic": null,
+          "isFree": false,
+          "isPremiumPreview": true,
+          "keyPoints": [
+            "The 50/30/20 rule for investment allocation",
+            "Automating investments for consistency",
+            "Emergency fund before investing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "module4",
+      "title": "Fundamental Analysis",
+      "level": "Intermediate",
+      "description": "Master the art of analyzing company value and financial health",
+      "sessions": [
+        {
+          "id": "session1",
+          "title": "Introduction to Fundamental Analysis",
+          "description": "Learn to evaluate companies like a pro investor",
+          "duration": "12 min",
+          "audioFile": "/audio/module4_session1_fundamentals_preview.mp3",
+          "infographic": "/images/infographic_fundamental_analysis.png",
+          "isFree": true,
+          "isPremiumPreview": true,
+          "keyPoints": [
+            "Fundamental analysis reveals true company value",
+            "Financial statements tell the complete story",
+            "Ratios help compare investment opportunities"
+          ]
+        },
+        {
+          "id": "session2",
+          "title": "Reading Financial Statements",
+          "description": "Decode income statements, balance sheets, and cash flow",
+          "duration": "15 min",
+          "audioFile": "/audio/module4_session2_financial_statements.mp3",
+          "infographic": "/images/infographic_financial_statements.png",
+          "isFree": false,
+          "keyPoints": [
+            "Income statement shows profitability trends",
+            "Balance sheet reveals financial strength",
+            "Cash flow statement shows real money movement"
+          ]
+        }
+      ]
+    }
+  ],
+  "learningStats": {
+    "totalLessons": 7,
+    "freeLessons": 5,
+    "estimatedTime": "72 minutes",
+    "completionRate": 89,
+    "studentsEnrolled": 15847
+  }
+}
